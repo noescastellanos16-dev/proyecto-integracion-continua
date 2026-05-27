@@ -7,7 +7,7 @@ Proyecto académico orientado a la implementación de integración continua util
 - Noe Santiago Castellanos Salazar
 - Chica Marquez Laura Valentina  
 - joseph alejandro ramirez pomare
-- Rodríguez Chacón Jonathan Oriel  
+- Rodríguez Chacón Jonathan Oriel
 
 ## Tecnologías utilizadas
 
